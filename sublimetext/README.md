@@ -20,4 +20,3 @@ Use the following packages:
     * with `lslint` in your PATH:
       * [`pclewis/lslint`](https://github.com/pclewis/lslint)
       * [`makopo/lslint`](https://github.com/makopo/lslint)
-      * [`Ociidii-Works/lslint`](https://github.com/Ociidii-Works/lslint)
